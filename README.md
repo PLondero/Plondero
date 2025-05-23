@@ -25,8 +25,3 @@
 
 I am Pedro Londero, im 17 years old and I am in the last year of high school, my school has a high school with a certificate of training in IT, in this course I learn HTML, CSS, MYSQL, PHP, JAVA and BRMODELO. My dream is to have a remote job and earn enough money to have a quiet life. I want to be a software developer and in the future work with cloud development.
 
-## My contributions
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PLondero&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PLondero/dio-lab-open-source)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PLondero&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PLondero/desafio-pedro-londero)
