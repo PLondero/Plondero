@@ -23,5 +23,5 @@
 
 ## About me
 
-I am Pedro Londero, im 17 years old and I am in the last year of high school, my school has a high school with a certificate of training in IT, in this course I learn HTML, CSS, MYSQL, PHP, JAVA and BRMODELO. My dream is to have a remote job and earn enough money to have a quiet life. I want to be a software developer and in the future work with cloud development.
+I am Pedro Londero, im 18 years old and I am in the last year of high school, my school has a high school with a certificate of training in IT, in this course I learn HTML, CSS, MYSQL, PHP, JAVA and BRMODELO. My dream is to have a remote job and earn enough money to have a quiet life. I want to be a software developer and in the future work with cloud development.
 
